@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<carrier_config_list>
+    <carrier_config>
+        <string name="oem_data_roaming_info_string">0,1</string>
+        <boolean name="ome_ussd_cw_cf_enabled_bool" value="true" />
+        <boolean name="hide_preferred_network_type_bool" value="true" />
+        <boolean name="convert_cdma_caller_id_mmi_codes_while_roaming_on_3gpp_bool" value="true" />
+        <boolean name="oem_key_permanent_auto_sel_mode_bool" value="false" />
+        <int name="oem_key_rat_name_of_4g_int" value="2" />
+        <int name="carrier_default_wfc_ims_mode_int" value="1" />
+        <int name="carrier_default_wfc_ims_roaming_mode_int" value="1" />
+    </carrier_config>
+</carrier_config_list>

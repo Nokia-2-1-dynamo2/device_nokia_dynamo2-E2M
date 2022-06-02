@@ -1,0 +1,9 @@
+on fs
+    setprop ro.sf.lcd_density 280
+    setprop ro.product.vendor.device EVW
+    setprop ro.product.vendor.brand Nokia
+    setprop ro.product.vendor.name Dynamo2_VZW
+    setprop ro.product.vendor.model "Nokia 2 V"
+    setprop ro.product.vendor.manufacturer "HMD Global"
+on fs
+	setprop ro.vendor.build.fingerprint Nokia/Dynamo2_VZW/EVW:9/PKQ1.181105.001/00WW_1_13A:user/release-keys
